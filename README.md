@@ -1,3 +1,8 @@
+<style>
+  body {
+    text-align: center;
+  }
+</style>
 <tt><center>
 <h1>androide242.harmaggedon</h1>
 <p>A B S T R A C T</p>
