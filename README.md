@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background-color:black">
 
 <h1><code>androide242.harmaggedon</code></h1>
 
