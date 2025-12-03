@@ -52,13 +52,6 @@ comença el caos.<br/>
 ╚════════════════════════════════════════╝
 </code></p>
 
-<p><code>
-<b>androide42.harmaggedon</b>:<br/>
-<br/>
-On s’acaba el control,<br/>
-comença el caos.
-</code></p>
-
 <p><code>🜂🜂🜂</code></p>
 
 <p><code>
