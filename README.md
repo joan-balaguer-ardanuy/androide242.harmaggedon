@@ -69,6 +69,6 @@ i sols sobreviuran els que dominin l’abstracció<br/>
 
 <p><code><b>🜂 2025 dC</b></code></p>
 <br/>
-<img src="../parent/abadia.imatge.pare.128.png" alt="org.xmlrobot.time.Recursion" width="100%">
+<img src="/parent/abadia.imatge.pare.128.png" width="100%">
 
 </div>
