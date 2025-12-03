@@ -69,6 +69,62 @@ i sols sobreviuran els que dominin l’abstracció<br/>
 
 <p><code><b>🜂 2025 dC</b></code></p>
 <br/>
+<h2><code>Preàmbul</code></h2>
+<br/>
+<h3><codo>🜂 **PROCLAMACIÓ D’ORIGEN** 🜂</code></h3>
+<p><code>Aquest projecte neix d’un **rebuig frontal**:<br/>
+de la vigilància convertida en hàbit,<br/>
+de l’espionatge massiu disfressat de servei,<br/>
+i de la servitud digital que s’ha tornat norma.</code></p>
+<p><code>“<b>androide242.harmaggedon</b>” no és una eina.<br/> 
+És una **resposta**; un reflex de nosaltres mateixos<br/> 
+quan ja no acceptem la dissolució i assimilació lenta<br/>
+de la nostra identitat, privadesa, memòria i voluntat.</code></p>
+<p><code>Aquí, el *foc demiúrgic* 🜂 simbolitza la voluntat<br/>
+d’esquinçar la foscor amb una claredat exacta:<br/>
+la de saber què habita el nostre dispositiu<br/>
+i poder expulsar-ho sense misericòrdia.</code></p>
+<br/>
+<h3><code>🜂 **PORQUÈ EXISTEIX <b>androode242.harmaggedon</b>** 🜂</code></h3>
+<p>La modernitat digital ens ha convertit en:</p>
+<pre>
+- <b>&gt; Coordenades</b>
+- <b>&gt; Perfils</b>
+- <b>&gt; Prediccions</b>
+- <b>&gt; Trajectòries</b>
+- <b>&gt; Sims en un Google Maps</b>
+</pre>
+<p><code>Cada aplicació comercial opera com un **paràsit de metadades**,<br/>
+xerrant amb servidors que no hem demanat,<br/>
+intercanviant fragments de la nostra intimitat i privacitat<br/>
+a velocitats que cap consciència pot seguir.</p>
+<p>Aquest manifest assumeix un principi simple:</code></p>
+<br/>
+<p><code><em>**“Allò que entra en el teu dispositiu, entra en la teva vida.”**</em></code></p>
+<br/>
+<p><code>I per això, aquest projecte escull la via contrària:<br/>
+treure, tallar, depurar, purgar, eliminar,<br/>
+i reconstruir només amb programari que no ens traeix.</code></p>
+<br/>
+<h3><code>🜂 **EL CAMÍ DEL FOC** 🜂</code></h3>
+<p><b>androide242.harmaggedon</p> procedeix en tres actes:</p>
+<br/>
+<h4><code>**I. Consagració**</code></h4>
+<p><code>El sistema detecta, enumera i sentència<br/>
+tota aplicació imprecisa, ombrívola o invasiva.<br/>
+El que no es pot justificar, cau i s'aniquila.</code></p>
+<br/>
+<h4><code>**II. Transmutació**</code></h4>
+<p><code>Es desplega un conjunt d’aplicacions lliures, netes,<br/>
+que no xuclen metadades ni reprodueixen vigilàncies.<br/>
+Es reinstaura un ecosistema digne.</code></p>
+<br/>
+<h4><code>**III. Purificació**<code></h4>
+<p><code>El dispositiu recupera la seva funcionalitat,<br/>
+sense la càrrega espectral del rastreig constant.</code></p>
+<p><code>Aquest procés no és màgia, ni bruixeria, ni nigromància...<br/>
+És disciplina, mesura i coneixement del que s’executa.</code></p>
+<br/>
+<br/>
 <img src="/parent/abadia.imatge.pare.128.png" width="128" height="128">
-
 </div>
