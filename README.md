@@ -107,7 +107,7 @@ treure, tallar, depurar, purgar, eliminar,<br/>
 i reconstruir només amb programari que no ens traeix.</code></p>
 <br/>
 <h3><code>🜂 **EL CAMÍ DEL FOC** 🜂</code></h3>
-<p><b>androide242.harmaggedon</p> procedeix en tres actes:</p>
+<p><code><b>androide242.harmaggedon</b> procedeix en tres actes:</code></p>
 <br/>
 <h4><code>**I. Consagració**</code></h4>
 <p><code>El sistema detecta, enumera i sentència<br/>
