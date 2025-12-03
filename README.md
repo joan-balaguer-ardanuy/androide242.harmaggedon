@@ -69,7 +69,7 @@ i sols sobreviuran els que dominin l’abstracció<br/>
 <br/>
 <h2><code>Preàmbul</code></h2>
 <br/>
-<h3><codo>🜂 **PROCLAMACIÓ D’ORIGEN** 🜂</code></h3>
+<h3><code>🜂 **PROCLAMACIÓ D’ORIGEN** 🜂</code></h3>
 <p><code>Aquest projecte neix d’un **rebuig frontal**:<br/>
 de la vigilància convertida en hàbit,<br/>
 de l’espionatge massiu disfressat de servei,<br/>
