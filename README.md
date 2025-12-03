@@ -42,18 +42,18 @@
 <p><code>A B S T R A C T</code></p>
 <p><code>🜂🜂🜂</code></p>
 
-<p><code><b>ANDROIDE242.harmaggedon:</b></code></p>
+<p><code><b>androide242.harmaggedon:</b></code></p>
 
 <p><code>
 ╔════════════════════════════════════════╗<br/>
-ANDROIDE242.harmaggedon:<br/>
+androide242.harmaggedon:<br/>
 On s’acaba el control,<br/>
 comença el caos.<br/>
 ╚════════════════════════════════════════╝
 </code></p>
 
 <p><code><b>
-ANDROIDE242.harmaggedon:<br/>
+androide42.harmaggedon:<br/>
 On s’acaba el control,<br/>
 comença el caos.
 </b></code></p>
