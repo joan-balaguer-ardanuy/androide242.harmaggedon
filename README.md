@@ -123,7 +123,7 @@ Es reinstaura un ecosistema digne.</code></p>
 <p><code>El dispositiu recupera la seva funcionalitat,<br/>
 sense la càrrega espectral del rastreig constant.<br/>
 Es reinstaura un ecosistema digne.</code></p>
-<p><code>Aquest procés no és màgia, ni bruixeria, ni nigromància...<br/>
+<p><code>Aquest procés no és màgia, ni bruixeria, ni nigromància, ni shamanisme, ni vudú, ni...<br/>
 És disciplina, mesura i coneixement del que s’executa.</code></p>
 <br/>
 <br/>
