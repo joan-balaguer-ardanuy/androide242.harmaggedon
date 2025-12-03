@@ -85,7 +85,7 @@ d’esquinçar la foscor amb una claredat exacta:<br/>
 la de saber què habita el nostre dispositiu<br/>
 i poder expulsar-ho sense misericòrdia.</code></p>
 <br/>
-<h3><code>🜂 **PORQUÈ EXISTEIX <b>androode242.harmaggedon</b>** 🜂</code></h3>
+<h3><code>🜂 **PORQUÈ EXISTEIX <b>androide242.harmaggedon</b>** 🜂</code></h3>
 <p>La modernitat digital ens ha convertit en:</p>
 <pre>
 - <b>&gt; Coordenades</b>
