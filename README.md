@@ -46,14 +46,14 @@
 
 <p><code>
 ╔════════════════════════════════════════╗<br/>
-androide242.harmaggedon:<br/>
+<b>androide242.harmaggedon</b>:<br/>
 On s’acaba el control,<br/>
 comença el caos.<br/>
 ╚════════════════════════════════════════╝
 </code></p>
 
 <p><code><b>
-androide42.harmaggedon:<br/>
+<b>androide42.harmaggedon</b>b>:<br/>
 On s’acaba el control,<br/>
 comença el caos.
 </b></code></p>
