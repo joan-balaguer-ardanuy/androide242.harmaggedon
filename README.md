@@ -87,7 +87,7 @@ i poder expulsar-ho sense misericòrdia.</code></p>
 <br/>
 <h3><code>🜂 **PORQUÈ EXISTEIX <b>androide242.harmaggedon</b>** 🜂</code></h3>
 <p>La modernitat digital ens ha convertit en:</p>
-<pre>
+<pre style="text-align:left">
 - <b>&gt; Coordenades</b>
 - <b>&gt; Perfils</b>
 - <b>&gt; Prediccions</b>
