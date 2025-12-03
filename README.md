@@ -66,8 +66,6 @@ i sols sobreviuran els que dominin l’abstracció<br/>
 ...Els codis antics desperten en el silenci de l’abstracció...<br/>
 ╚════════════════════════════════════════════════════════════╝<br/>
 </code></p>
-
-<p><code><b>🜂 2025 dC</b></code></p>
 <br/>
 <h2><code>Preàmbul</code></h2>
 <br/>
@@ -169,5 +167,6 @@ Es reinstaura un ecosistema digne.</code></p>
 🜂🜂🜂  🜂🜂🜂🜂  🜂   🜂 🜂🜂🜂🜂🜂🜂 🜂  🜂🜂🜂   🜂 🜂   🜂
 </pre>
 <br/>
+<p><code><b>🜂 2025 dC</b></code></p>
 <img src="/parent/abadia.imatge.pare.128.png" width="128" height="128">
 </div>
