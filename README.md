@@ -119,9 +119,10 @@ El que no es pot justificar, cau i s'aniquila.</code></p>
 que no xuclen metadades ni reprodueixen vigilàncies.<br/>
 Es reinstaura un ecosistema digne.</code></p>
 <br/>
-<h4><code>**III. Purificació**<code></h4>
+<h4><code>**III. Purificació**</code></h4>
 <p><code>El dispositiu recupera la seva funcionalitat,<br/>
-sense la càrrega espectral del rastreig constant.</code></p>
+sense la càrrega espectral del rastreig constant.<br/>
+Es reinstaura un ecosistema digne.</code></p>
 <p><code>Aquest procés no és màgia, ni bruixeria, ni nigromància...<br/>
 És disciplina, mesura i coneixement del que s’executa.</code></p>
 <br/>
