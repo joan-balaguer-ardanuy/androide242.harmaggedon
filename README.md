@@ -168,5 +168,6 @@ Es reinstaura un ecosistema digne.</code></p>
 </pre>
 <br/>
 <p><code><b>🜂 2025 dC</b></code></p>
+<p><code><b>El genomapa de gràcia de la Consagrada de Montserrat</b></code></p>
 <img src="/parent/abadia.imatge.pare.128.png" width="128" height="128">
 </div>
