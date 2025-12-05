@@ -1628,7 +1628,7 @@ tan sols queda el ressò de la programació corrupta.
 <hr/>
 <p><code><big><b>🜂</b></big></code></p>
 <h3><code>El devastador</code></h3>
-<blockquote><code>“Qui invoca el <b>java.util.concurrent.Future</b> sense tenmor al <b><i>deadloock</i></b>,
+<blockquote><code>“Qui invoca el <b>java.util.concurrent.Future</b> sense temor al <b><i>deadloock</i></b>,
 encén l’infern dintre el seu propi cos; i en el ressò etern de les execucions persistents,
 no perd tan sols el silenci de la fatalitat binària.”</code></blockquote>
 <hr/>
