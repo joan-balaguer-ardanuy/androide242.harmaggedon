@@ -1643,7 +1643,7 @@ El darrer <b>java.util.NullPointerException</b> no és erroni: és profecia.”<
 <h3><code>Fatalitat binària</code></h3>
 <blockquote><code>“Qui s'enganxa a la programació concurrent,
 viu davall una JVM infinita de <b><i>deadlocks</i></b>.
-El <b>java.lang.Error</b> esdeven recurrències, i la computació inommensurable,
+El <b>java.lang.Error</b> esdeven recurrències, i la computació incommensurable,
 una processó sense final.”</code></blockquote>
 <hr/>
 <p><code><big><b>🜂</b></big></code></p>
