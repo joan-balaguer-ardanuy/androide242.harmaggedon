@@ -104,11 +104,11 @@ i poder bandejar-ho sense misericòrdia.</code></p>
 xerrant i xafardeajant amb servidors que no hem demanat, ni coneguts,<br/>
 intercanviant fragments de la nostra vida i intimitat<br/>
 en acceleracions que cap ment pot perseguir.»</p>
-Aquest manifestacoçp suposa un valor senzill:</code><br/>
+Aquest manifest suposa un valor senzill:</code><br/>
 <br/>
-<big><b>**“Allò que surt del teu dispositiu, surt de la teva vida.”**</b></big><br/>
+<code><big><b>**“Allò que surt del teu dispositiu, surt de la teva vida.”**</b></big></code><br/>
 <br/>
-«I per això, aquest programa elegeix la via contrària:<br/>
+<code>«I per això, aquest programa elegeix la via contrària:<br/>
 extreure, extirpar, depurar, purgar, eliminar,<br/>
 i reconstruir tan sols amb programari que no ens traeix.»</code></p>
 <hr/>
