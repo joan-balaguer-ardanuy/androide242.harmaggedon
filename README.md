@@ -1320,8 +1320,7 @@ padding:10px 15px;background:#000;color:#FFF;font-family:monospace;">
 <p><code><big><b>🜂</b></big></code></p>
 <h3><code>0x04. La Instància de la Clau&lt;K&gt;</code></h3>
 <p><code>»En UTF-8, l’hiperespai obtén helicoides estranyes:</code></p>
-<pre style="display:inline-block;text-align:left;border:1px solid #FFF;
-padding:10px 15px;background:#000;color:#FFF;font-family:monospace;">
+<pre>
 /\     /\    /\    /\   
   \   /  \  /  \  /  \ 
    \/     \/    \/
