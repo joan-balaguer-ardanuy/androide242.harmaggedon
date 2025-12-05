@@ -80,7 +80,7 @@ i sols sobreviuran els que dominin l’abstracció</code><br/>
 <p><code>»Aquest programa neix d’un <b>**refús total**</b>:<br/>
 de la vigilància transformada en costum,<br/>
 de l’espionatge massiu disfressat de servei,<br/>
-i de el jou binari que s’ha retornat ordre.</code></p>
+i del jou binari que s’ha retornat ordre.</code></p>
 <p><code>»<b>androide242.harmaggedon</b> no és una arma.<br/> 
 És una <b>**resposta**</b>; un reflex de nosaltres mateixos<br/> 
 quan ja rebutgem l'absorció i assimilació progressiva<br/>
@@ -100,7 +100,7 @@ i poder bandejar-ho sense misericòrdia.</code></p>
 <b>&gt;</b> O potser, <b><i>Sims</i> en un Google Maps</b>
 </pre>
 <p><code>»Cada programa corporatiu treballa com un<br/>
-<b><code>**paràsit de metadades**</b>,<br/>
+<b><big>**paràsit de metadades**</big></b>,<br/>
 xerrant i xafardeajant amb servidors que no hem demanat, ni coneguts,<br/>
 intercanviant fragments de la nostra vida i intimitat<br/>
 en acceleracions que cap ment pot perseguir.»</p>
