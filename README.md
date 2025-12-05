@@ -1324,7 +1324,7 @@ padding:10px 15px;background:#000;color:#FFF;font-family:monospace;">
 padding:10px 15px;background:#000;color:#FFF;font-family:monospace;">
 /\     /\    /\    /\   
   \   /  \  /  \  /  \ 
- \/     \/    \/
+\/     \/    \/
 </pre>
 <p><code>»És un senyal, és una sinusoidal,<br/>
 és una triangular que escolta.<br/>
